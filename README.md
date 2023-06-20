@@ -1,5 +1,5 @@
-####Project Name: Responsive Website
-##Project Description:
+#### Project Name: Responsive Website
+## Project Description:
 This project is a responsive website that adapts and adjusts its layout and design based on the device's screen size. The purpose of creating a responsive website is to provide an optimal viewing and user experience across various devices, including desktop computers, laptops, tablets, and mobile phones.
 
 ##Project Features:
